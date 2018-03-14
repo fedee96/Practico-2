@@ -1,0 +1,8 @@
+﻿  TP2.cpp
+c:\users\feder\source\repos\tp2\tp2\tp2.cpp(192): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\feder\source\repos\tp2\tp2\tp2.cpp(192): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\feder\source\repos\tp2\tp2\tp2.cpp(38): warning C4101: 'var3': unreferenced local variable
+c:\users\feder\source\repos\tp2\tp2\tp2.cpp(41): warning C4101: 'cad': unreferenced local variable
+c:\users\feder\source\repos\tp2\tp2\tp2.cpp(98): warning C4101: 'e': unreferenced local variable
+c:\users\feder\source\repos\tp2\tp2\tp2.cpp(97): warning C4101: 'd': unreferenced local variable
+  TP2.vcxproj -> C:\Users\feder\source\repos\TP2\Debug\TP2.exe
